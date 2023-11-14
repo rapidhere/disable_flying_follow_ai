@@ -1,7 +1,7 @@
-name: "rapidhere-misc-mod"
-displayName: "rapidhere misc mod"
+name: "disable_flying_follow_ai"
+displayName: "Disable Flying Follow AI"
 author: rapidhere
-description: "useless"
+description: "disable flying follow ai for spanwed high level air forces"
 version: "1.0"
 minGameVersion: "146"
 dependencies: [ ]
